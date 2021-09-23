@@ -11,10 +11,27 @@ p{
 
 }
 .mijnAfbeelding {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 300px;
 
 }
 body{
     background-color: black;
+}
+.link {
+    text-align: left;
+    font-size: small;
+    color: azure;
+
+}
+.klik {
+    text-align: left;
+
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 1400px;
+    margin-bottom: 340px;
+    
 }
